@@ -25,11 +25,13 @@ This algorithm uses direct element-by-element comparison.
 🧩 Example Output
 -
 Matrix 1:
+
 02 05 07  
 01 03 09  
 06 04 08  
 
 Matrix 2:
+
 02 05 07  
 01 03 09  
 06 04 08  
